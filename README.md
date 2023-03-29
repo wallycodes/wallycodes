@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&color=CDCDCD&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Wally.)](https://git.io/typing-svg) 
-<img align="center"style="width:200px;"src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&color=CDCDCD&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Wally." alt="Typing SVG" /></a>
+
+<h2 align="center"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  Languages I Have Used and Learned</h2>
 
 <!--
 **wallycodes/wallycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
