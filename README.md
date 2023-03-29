@@ -1,11 +1,11 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&color=CDCDCD&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Wally.)](https://git.io/typing-svg) 👋
 
 <!--
 **wallycodes/wallycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there!I'm Wally!;Second+line+of+text)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
